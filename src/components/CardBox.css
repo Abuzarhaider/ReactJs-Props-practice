@@ -1,0 +1,22 @@
+
+.cardMain{
+    height: 234px;
+    width: 208px;
+    border-radius: 5px 5px 0 0;
+}
+
+.cardImg img{
+    height: 13rem;
+    width: 13rem;
+    border-radius: 5px 5px 0 0;
+}
+.cardButton{
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+}
+.cardButton a{
+    border: none;
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,18 @@
+
+.mainDes{
+    box-sizing: border-box;
+    height: 100vh;
+    padding: 0 20%;
+    background-image: linear-gradient(to bottom, #000000, #020202, #050304, #070505, #0a0707, #0c0707, #0e0707, #100707, #120505, #140404, #160202, #180000);
+    cursor: default;
+    color: white;
+}
+.title h2{
+    margin: 0;
+    color: red;
+    text-align: center;
+    padding: 1rem;
+    font-family: sans-serif;
+    opacity: 0.8;
+    padding: 15px;
+}
