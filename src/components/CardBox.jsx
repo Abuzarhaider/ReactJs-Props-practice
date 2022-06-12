@@ -10,7 +10,7 @@ const CardBox = (props) => {
         </div>
         {/* Card link Button */}
         <div className='cardButton'>
-            <a href="https://www.netflix.com/pk/" target="_blank" rel="noopener noreferrer"> Watch Here</a>
+            <a href="https://www.netflix.com/" target="_blank" rel="noopener noreferrer"> Watch Here</a>
         </div>
     </div>
   )
